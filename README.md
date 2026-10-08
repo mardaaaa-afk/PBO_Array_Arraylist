@@ -41,7 +41,7 @@ Seluruh data disimpan menggunakan `ArrayList`, sehingga jumlah nasabah dan akun 
 <div align="center">
 
 <!-- 👇 GANTI GAMBAR DI BAWAH INI 👇 -->
-![Screenshot Hasil Program](images/hasil-program.jpg)
+![Screenshot Hasil Program](Array.png)
 <!-- 👆 GANTI GAMBAR DI ATAS INI 👆 -->
 
 *Gambar: Tampilan output program di terminal*
