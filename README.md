@@ -171,9 +171,9 @@ Total Saldo Keseluruhan: Rp 8500000.0
 
 | | |
 |---|---|
-| **Nama** | `Isi Nama Lengkap Kamu` |
-| **NIM** | `Isi NIM Kamu` |
-| **Kelas** | `Isi Kelas Kamu` |
+| **Nama** | `Mardatilah` |
+| **NIM** | `F1D02510014` |
+| **Kelas** | `Informatika B` |
 
 <div align="center">
 
